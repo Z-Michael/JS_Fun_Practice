@@ -15,7 +15,7 @@ h1 {
 }
 
 .description{
-	margin: 10% 30px;
+	margin: auto right;
 	box-shadow: 1px 1px 10px grey;
 	padding: 10px;
 	border-radius: 10px;
